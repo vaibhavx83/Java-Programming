@@ -7,6 +7,9 @@ This repository contains my daily Java practice programs.
 - Day02_Loops – Loop based problems
 - Day03_Conditionals – Conditional logic programs
 - Day04_logicaloperator- greatest of three numbers
+- Day04_functions- arithmatic operation using functions
+- 
+- 
 
 ## Goal
 To build strong Java fundamentals and maintain daily GitHub consistency.

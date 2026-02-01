@@ -8,7 +8,7 @@ This repository contains my daily Java practice programs.
 - Day03_Conditionals – Conditional logic programs
 - Day04_logicaloperator- greatest of three numbers
 - Day04_functions- arithmatic operation using functions
-- 
+- Day05_basic logic implementation-sumofdigit,factorial,lcm,gcd etc
 - 
 
 ## Goal

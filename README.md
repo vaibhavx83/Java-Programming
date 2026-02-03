@@ -9,6 +9,8 @@ This repository contains my daily Java practice programs.
 - Day04_logicaloperator- greatest of three numbers
 - Day04_functions- arithmatic operation using functions
 - Day05_basic logic implementation-sumofdigit,factorial,lcm,gcd etc
+- Day06_implementation and understandin exception handling
+- 
 - 
 
 ## Goal
